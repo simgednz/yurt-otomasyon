@@ -1,0 +1,36 @@
+C:\Users\HP\source\repos\194603017_yurtotomasyon\bin\Debug\194603017_yurtotomasyon.exe.config
+C:\Users\HP\source\repos\194603017_yurtotomasyon\bin\Debug\194603017_yurtotomasyon.exe
+C:\Users\HP\source\repos\194603017_yurtotomasyon\bin\Debug\194603017_yurtotomasyon.pdb
+C:\Users\HP\source\repos\194603017_yurtotomasyon\obj\Debug\194603017_yurtotomasyon.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\194603017_yurtotomasyon\obj\Debug\_194603017_yurtotomasyon.Form1.resources
+C:\Users\HP\source\repos\194603017_yurtotomasyon\obj\Debug\_194603017_yurtotomasyon.Properties.Resources.resources
+C:\Users\HP\source\repos\194603017_yurtotomasyon\obj\Debug\194603017_yurtotomasyon.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\194603017_yurtotomasyon\obj\Debug\194603017_yurtotomasyon.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\194603017_yurtotomasyon\obj\Debug\194603017_yurtotomasyon.exe
+C:\Users\HP\source\repos\194603017_yurtotomasyon\obj\Debug\194603017_yurtotomasyon.pdb
+C:\Users\HP\source\repos\194603017_yurtotomasyon\obj\Debug\_194603017_yurtotomasyon.frmbolumler.resources
+C:\Users\HP\source\repos\194603017_yurtotomasyon\obj\Debug\_194603017_yurtotomasyon.frmana.resources
+C:\Users\HP\source\repos\194603017_yurtotomasyon\obj\Debug\_194603017_yurtotomasyon.frmodemeler.resources
+C:\Users\HP\source\repos\194603017_yurtotomasyon\obj\Debug\_194603017_yurtotomasyon.frmogrencılısteleme.resources
+C:\Users\HP\source\repos\194603017_yurtotomasyon\obj\Debug\_194603017_yurtotomasyon.frmgıderler.resources
+C:\Users\HP\source\repos\194603017_yurtotomasyon\obj\Debug\_194603017_yurtotomasyon.frmgıderlistesi.resources
+C:\Users\HP\source\repos\194603017_yurtotomasyon\obj\Debug\_194603017_yurtotomasyon.frm_personel.resources
+C:\Users\HP\source\repos\194603017_yurtotomasyon\obj\Debug\_194603017_yurtotomasyon.frmpersonellıstesı.resources
+C:\Users\HP\Desktop\194603017_yurtotomasyon - Kopya\bin\Debug\194603017_yurtotomasyon.exe.config
+C:\Users\HP\Desktop\194603017_yurtotomasyon - Kopya\bin\Debug\194603017_yurtotomasyon.exe
+C:\Users\HP\Desktop\194603017_yurtotomasyon - Kopya\bin\Debug\194603017_yurtotomasyon.pdb
+C:\Users\HP\Desktop\194603017_yurtotomasyon - Kopya\obj\Debug\194603017_yurtotomasyon.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\194603017_yurtotomasyon - Kopya\obj\Debug\_194603017_yurtotomasyon.Form1.resources
+C:\Users\HP\Desktop\194603017_yurtotomasyon - Kopya\obj\Debug\_194603017_yurtotomasyon.frm_personel.resources
+C:\Users\HP\Desktop\194603017_yurtotomasyon - Kopya\obj\Debug\_194603017_yurtotomasyon.frmana.resources
+C:\Users\HP\Desktop\194603017_yurtotomasyon - Kopya\obj\Debug\_194603017_yurtotomasyon.frmbolumler.resources
+C:\Users\HP\Desktop\194603017_yurtotomasyon - Kopya\obj\Debug\_194603017_yurtotomasyon.frmgıderler.resources
+C:\Users\HP\Desktop\194603017_yurtotomasyon - Kopya\obj\Debug\_194603017_yurtotomasyon.frmgıderlistesi.resources
+C:\Users\HP\Desktop\194603017_yurtotomasyon - Kopya\obj\Debug\_194603017_yurtotomasyon.frmodemeler.resources
+C:\Users\HP\Desktop\194603017_yurtotomasyon - Kopya\obj\Debug\_194603017_yurtotomasyon.frmogrencılısteleme.resources
+C:\Users\HP\Desktop\194603017_yurtotomasyon - Kopya\obj\Debug\_194603017_yurtotomasyon.frmpersonellıstesı.resources
+C:\Users\HP\Desktop\194603017_yurtotomasyon - Kopya\obj\Debug\_194603017_yurtotomasyon.Properties.Resources.resources
+C:\Users\HP\Desktop\194603017_yurtotomasyon - Kopya\obj\Debug\194603017_yurtotomasyon.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\194603017_yurtotomasyon - Kopya\obj\Debug\194603017_yurtotomasyon.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\194603017_yurtotomasyon - Kopya\obj\Debug\194603017_yurtotomasyon.exe
+C:\Users\HP\Desktop\194603017_yurtotomasyon - Kopya\obj\Debug\194603017_yurtotomasyon.pdb
